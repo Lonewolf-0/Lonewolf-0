@@ -1,3 +1,4 @@
+[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://www.linkedin.com/in/aryan-tyagi-552116224/)
 <h1 align="center">Hi 👋, I'm Aryan Tyagi</h1>
 <h3 align="center">Tech Enthusiast, Learner, Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
