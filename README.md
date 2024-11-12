@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lonewolf-0/lonewolf-0/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
